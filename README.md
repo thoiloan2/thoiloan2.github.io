@@ -1,2 +1,2 @@
 # thoiloan2.github.io
-Redirect links for TLM2
+Redirect links for TL2
