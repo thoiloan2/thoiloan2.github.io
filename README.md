@@ -1,2 +1,3 @@
 # thoiloan2.github.io
-Redirect links for TL2
+
+Thời Loạn 2
